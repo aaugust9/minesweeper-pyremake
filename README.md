@@ -6,5 +6,5 @@ Small project to learn about pygame and what it can do. A style menu was added t
 Code is barebones and needs refining to be release quality.
 
 ### Starting.
-Run this command inside the root folder to run and play the game 
-`python3 main.py`
+Open a console in the root folder and run `python3 main.py`  to play the game!
+
